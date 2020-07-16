@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b7b5261-481e-4c96-8471-70e913f71b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayLauncher/src/ArrayLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EEtest/src/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel1/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel1/src/com/company/Maker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parallel1/src/com/company/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ThreadPool_final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolReserv/PoolReserv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolReserv/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolReserv/src/ThreadPool_final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoolReserv/src/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pooool/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pooool/src/ThreadPool_final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pooool/src/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eetest/src/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW1/src/main/java/ru.atom/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW1/src/test/java/ru/atom/UtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW2/dictionary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW3/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW3/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeworks/HW3/src/main/java/ru.atom/Ticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/css/PITCHME.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/atom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/codeflow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/hh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/jdk-jre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/jdk-jre2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/sf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/presentation/assets/img/sphere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/src/main/java/ru.atom/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture01/src/test/java/ru/atom/HelloWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/presentation/assets/css/PITCHME.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/presentation/assets/img/allocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/presentation/assets/img/geometry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/enums/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/enums/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/geometry/Collider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/geometry/Geometry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/geometry/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/instantiation/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/instantiation/Sub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/makejar/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/message/example1/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/message/example1/TitledMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/message/example2/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/main/java/ru/atom/message/example2/Storable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/enums/GenderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/geometry/BarBarCollisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/geometry/BarPointCollisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/geometry/PointPointCollisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/instantiation/InstantiationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/message/example1/TitledMessageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture02/src/test/java/ru/atom/message/example2/MessageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/lecture03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/css/PITCHME.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/array1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/array10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/array9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/arrayresized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/atom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/collectionimpl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/exception.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/hashmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/hashset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/linked0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/linked0linked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/linked1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/linked1linked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/linkednew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/newarray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/presentation/assets/img/treeset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/exception/BaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/exception/ExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/exception/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/exception/SubException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/files/ResourceReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/list/CustomLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/java/ru/atom/list/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/java/ru/atom/exception/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/java/ru/atom/exception/ExceptionHandlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/java/ru/atom/files/ResourceReadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/java/ru/atom/list/CustomLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/resources/FileToRead.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture03/src/test/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/lecture04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/css/PITCHME.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/Bomberman-arch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/Bomberman-arch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/Client-server-model.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/HTTP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/MVC-Introduction2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/atom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/bomberman-architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/collectionimpl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/hashmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/hashset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/linked0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/linked0linked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/linked1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/linked1linked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/linkednew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/newarray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/osi2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/spring-by-pivotal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/spring_mvc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/presentation/assets/img/treeset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/cache/AbstractCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/cache/ContactListCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/cache/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/chat/client/ChatClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/chat/server/ChatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/java/ru/atom/chat/server/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/test/java/ru/atom/cache/ContactListCacheTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/test/java/ru/atom/chat/client/ChatClientTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture04/src/test/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/css/PITCHME.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/MVC-Introduction2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/atom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/mm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/mmalgo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/newthread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/queue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/servlet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/spring-by-pivotal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/presentation/assets/img/spring_mvc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/annotation/AnnotationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/MatchMakerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/controller/ConnectionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/model/Connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/model/GameSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/service/ConnectionProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/service/ConnectionQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/service/GameRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/mm/service/MatchMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/thread/instantiation/NotifierExtendsThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/thread/instantiation/NotifierImplementsRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/java/ru/atom/thread/join/Bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/annotation/AnnotationDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/ConnectionControllerIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/ConnectionControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/GameControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/GamesControllerIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/mm/MatchMakerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/instantiation/ThreadCreationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/join/BombTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/BadEventProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/EventProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/EventProcessorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/EventProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/EventQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture05/src/test/java/ru/atom/thread/practice/GoodEventProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/lecture06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/presentation/assets/img/dataType.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/presentation/assets/img/jdbc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/presentation/assets/img/retrospective.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/ChatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/controller/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/dao/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/dao/DbConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/dao/MessageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/model/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/java/ru/atom/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/sql/data/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/sql/schema/schema-1-simple.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/sql/schema/schema-2-constraints.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/sql/schema/schema-3-transaction.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/test/java/ru/atom/dao/MessageDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture06/src/test/java/ru/atom/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/lecture07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/hibernate-arch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/hibernate-states.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/hibernate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/mapping.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/presentation/assets/img/mapping_bad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/psql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/ChatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/controller/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/dao/MessageDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/dao/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/model/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/java/ru/atom/lecture07/server/service/ChatService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/resources/sql/schema/chat-schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture07/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/Bomberman-arch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/Game-architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/canvas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/gameloop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/osi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/osi2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/services.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/presentation/assets/img/websocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/EventClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/EventHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/EventServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/WebSocketConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/message/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/message/Topic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/network/Broker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/network/ConnectionPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/java/ru/atom/lecture08/websocket/util/JsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture08/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/lecture09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/Bomberman-arch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/GameServerArchitecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/GameServerArchitecture.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/GameServerArchitecture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/client-actions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/presentation/assets/img/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/message/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/message/Topic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/network/Broker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/network/ConnectionPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/tick/Tickable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/tick/Ticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/java/ru/atom/lecture09/util/JsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture09/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/Test_billing.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/javaConcurrentAnimated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/GameThreads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/monitor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/newthread.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/queue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/assets/img/visibility.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/presentation/concurrency.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/billing/BillingResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/billing/BillingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/dataraces/DataRaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/dataraces/RacingThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/dataraces/Stopper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/deadlock/Deadlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/initialization/SafeInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/initialization/SomeOtherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/initialization/UnsafeInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/ordering/ReorderingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/pingpong/PingPongThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/queue/BlockingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/queue/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/raceconditions/RandomRunExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/sharedmutablestate/FindAllSharedMutableState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/synchronizedexample/SynchronizedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/threadlocal/ThreadLocalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/java/ru/atom/lecture10/volatileexample/VolatileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/resources/from.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture10/src/main/resources/to.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/Test_billing.jmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/javaConcurrentAnimated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/presentation/assets/img/JMM_happens_before.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/presentation/assets/img/concurrenthashmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/presentation/assets/img/deadlock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/billing/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/billing/BillingResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/billing/BillingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/dataraces/DataRaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/dataraces/RacingThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/dataraces/Stopper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/deadlock/Deadlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/gameconcurrency/GameResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/gameconcurrency/GameServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/gameconcurrency/GameSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/initialization/SafeInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/initialization/SomeOtherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/initialization/UnsafeInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/ordering/ReorderingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/pingpong/PingPongThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/queue/BlockingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/queue/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/raceconditions/RandomRunExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/sharedmutablestate/FindAllSharedMutableState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/synchronizedexample/SynchronizedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/threadlocal/ThreadLocalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/java/ru/atom/lecture11/volatileexample/VolatileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture11/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/PITCHME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/PITCHME.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/allocation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/gcroots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/gcs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/gen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/heap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/layout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/presentation/assets/img/triangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/src/main/java/ru/atom/lecture12/GarbageProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/src/main/java/ru/atom/lecture12/GuessSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture12/src/test/java/ru/atom/lecture12/GuessSizeTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/WorkerThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ThreadPool_final.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/ThPool.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThreaPool_final.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ConcurrentList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/WorkerThread.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThreadPool_final.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="816" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Pool" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b7b5261-481e-4c96-8471-70e913f71b09" name="Default Changelist" comment="" />
+      <created>1560254505451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560254505451</updated>
+      <workItem from="1560254508863" duration="5364000" />
+      <workItem from="1560260095157" duration="299000" />
+      <workItem from="1560349794023" duration="1105000" />
+      <workItem from="1560406005425" duration="5999000" />
+      <workItem from="1560416557951" duration="746000" />
+      <workItem from="1560431527521" duration="5719000" />
+      <workItem from="1560595062102" duration="627000" />
+      <workItem from="1567505882999" duration="1198000" />
+      <workItem from="1567588669894" duration="608000" />
+      <workItem from="1568530905069" duration="44000" />
+      <workItem from="1568530982761" duration="3717000" />
+      <workItem from="1568891305233" duration="1748000" />
+      <workItem from="1568893410076" duration="829000" />
+      <workItem from="1568894285518" duration="1706000" />
+      <workItem from="1568972118006" duration="41000" />
+      <workItem from="1569091259295" duration="6938000" />
+      <workItem from="1569155091962" duration="4143000" />
+      <workItem from="1569160113353" duration="475000" />
+      <workItem from="1569160838959" duration="328000" />
+      <workItem from="1569222200431" duration="1847000" />
+      <workItem from="1569225593325" duration="408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43889000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19015151" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19798657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39765102" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32885906" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32954547" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32954547" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.20454545" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17075893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22651006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32885906" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32954547" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.20530303" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThPool.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.10.0-openjdk-amd64!/java.base/java/io/Closeable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pool.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.10.0-openjdk-amd64!/java.base/java/util/concurrent/Executor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.10.0-openjdk-amd64!/java.base/java/util/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThreaPool_final.java" />
+    <entry file="jrt:///usr/lib/jvm/java-1.10.0-openjdk-amd64!/java.base/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6773">
+          <caret line="160" column="11" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="11" />
+          <folding>
+            <element signature="e#5621#5622#0" expanded="true" />
+            <element signature="e#5706#5707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MyArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThreadPool.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/NewList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/WorkerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThreadPool_final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pool</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
